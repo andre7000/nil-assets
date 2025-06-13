@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Background rectangle -->
+  <rect width="1024" height="1024" fill="dodgerblue"/>
+  
+  <!-- NILI text -->
+  <text 
+    x="512" 
+    y="600" 
+    font-family="Arial, sans-serif" 
+    font-size="300" 
+    font-weight="bold" 
+    fill="white" 
+    text-anchor="middle"
+  >NILI</text>
+</svg>

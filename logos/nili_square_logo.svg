@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <!-- No background, completely transparent -->
+  
+  <!-- NILI text in dodgerblue, larger size -->
+  <text
+    x="150"
+    y="100"
+    font-family="Arial, sans-serif"
+    font-weight="bold"
+    font-size="80"
+    fill="#1E90FF"
+    text-anchor="middle"
+    dominant-baseline="middle">
+    NILI
+  </text>
+  
+  <!-- Subtitle -->
+  <text
+    x="150"
+    y="140"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    fill="#333333"
+    text-anchor="middle"
+    dominant-baseline="middle">
+    NIL Impact
+  </text>
+</svg>
